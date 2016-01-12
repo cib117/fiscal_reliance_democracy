@@ -1,0 +1,18 @@
+##################################################################
+## Instructions for reproducing figures and tables for
+## 'Fiscal reliance on Oil Incomes and Democracy' paper
+## Code and figures are available at:
+## https://github.com/cib117/fiscal_reliance_democracy
+##################################################################
+
+1. Ensure you are in correct directory (/fiscal_reliance_democracy)
+
+2. Run the install_packages.R script
+
+3.  fiscalreliance_oilincome_plots.R reproduces the fiscal reliance
+    and oil income figures in the paper.
+
+    global_oil_prices.R reproduces the global oil price figures in
+    the paper.
+
+    tables.R reproduces the tables in the paper.
